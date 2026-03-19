@@ -1,0 +1,5 @@
+node_modules/
+backend-sena/node_modules/
+frontend-sena/node_modules/
+.env
+.DS_Store
